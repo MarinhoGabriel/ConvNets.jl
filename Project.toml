@@ -1,0 +1,4 @@
+name = "ConvNets"
+uuid = "ed09875c-3fba-4d96-90a5-7b2232d9de9f"
+authors = ["Gabriel Marinho <gabrielvesal@gmail.com>"]
+version = "0.1.0"
